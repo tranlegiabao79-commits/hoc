@@ -1,4 +1,4 @@
-package BT;
+package LTHDT;
 
 import java.util.Scanner;
 
